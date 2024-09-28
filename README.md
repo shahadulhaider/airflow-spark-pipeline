@@ -22,7 +22,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline using Apache 
 1. Extract book data from Open Library API
 2. Transform data using Spark
 3. Create table in PostgreSQL
-4, Load transformed data into PostgreSQL
+4. Load transformed data into PostgreSQL
 
 ## Notes
 
